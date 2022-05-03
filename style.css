@@ -1,7 +1,6 @@
 body {
-	background: blue;
-}
-
-.background-body {
-	background-size: cover;
-}
+ background: url('bgimage.jpg');
+ background-repeat: no-repeat;
+ background-size: 100%;
+ background-position: center;
+} 
