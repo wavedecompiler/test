@@ -1,3 +1,7 @@
 body {
 	background: black;
 }
+
+.background-body {
+	background-size: cover;
+}
